@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "Connectors-altium-import")(type "KiCad")(uri "${KIPRJMOD}/Connectors-altium-import.kicad_sym")(options "")(descr ""))
+)
